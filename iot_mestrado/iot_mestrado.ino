@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // Configurações Wi-Fi
-const char* ssid = "Coisas";
-const char* password = "Iot*2024";
+const char* ssid = "REDE";
+const char* password = "SENHA";
 
 // Configurações MQTT
 const char* mqtt_server = "test.mosquitto.org";
